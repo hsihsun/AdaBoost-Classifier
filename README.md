@@ -1,4 +1,4 @@
-# AdaBoost-Classifier
+# AdaBoost-classifier
 
 **The implementation of an AdaBoost classifier**
 
