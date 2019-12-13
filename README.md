@@ -1,6 +1,6 @@
 # AdaBoost-Classifier
 
-**The implementation of an AdaBoost Classifier**
+**The implementation of an AdaBoost classifier**
 
 This is a part of assignment of Stanford CS229.
 
