@@ -82,7 +82,7 @@ set(hpos, 'linewidth', 2);
 set(hneg, 'linewidth', 2);
 h = plot(x1_coord, x2_coord, 'k-', 'linewidth', 2);
 axis([0 1 0 1]);
- title(sprintf('Logistic Regression'));
+title(sprintf('Logistic Regression'));
 set(gca, 'fontsize', 18);
 print -depsc2 'logistic_plot.eps';
 axis square;
