@@ -9,6 +9,6 @@ The AdaBoost classifier has the better performance to classify the complex patte
 You can download this repository and run boosting_demo.m.
 
 <p float="left">
-  <img src="/https://github.com/hsihsun/AdaBoost-Classifier/blob/master/Result/AdaBoost_Classifier.png" width="1000" />
-  <img src="/https://github.com/hsihsun/AdaBoost-Classifier/blob/master/Result/Logistic_Regression.png" width="1000" /> 
+  <img src="https://github.com/hsihsun/AdaBoost-Classifier/blob/master/Result/AdaBoost_Classifier.png" width="1000" />
+  <img src="https://github.com/hsihsun/AdaBoost-Classifier/blob/master/Result/Logistic_Regression.png" width="1000" /> 
 </p>
