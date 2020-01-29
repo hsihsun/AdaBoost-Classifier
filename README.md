@@ -8,7 +8,5 @@ The AdaBoost classifier has the better performance to classify the complex patte
 
 You can download this repository and run boosting_demo.m.
 
-<img src="https://github.com/hsihsun/AdaBoost-Classifier/blob/master/Result/AdaBoost_Classifier.png" width="700"/> <img src="https://github.com/hsihsun/AdaBoost-Classifier/blob/master/Result/Logistic_Regression.png" width="700"/> 
-/*
-![alt](https://github.com/hsihsun/AdaBoost-Classifier/blob/master/Result/AdaBoost_Classifier.png) ![alt](https://github.com/hsihsun/AdaBoost-Classifier/blob/master/Result/Logistic_Regression.png)*/
+<img src="https://github.com/hsihsun/AdaBoost-Classifier/blob/master/Result/AdaBoost_Classifier.png" width="600"/> <img src="https://github.com/hsihsun/AdaBoost-Classifier/blob/master/Result/Logistic_Regression.png" width="600"/> 
 
